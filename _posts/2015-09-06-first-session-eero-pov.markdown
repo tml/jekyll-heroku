@@ -6,7 +6,7 @@ categories: session-summary eero all pov
 ---
 
 
-*Sketch bond: Working on converting Sketch to his faith*
+*Sketch bond: Working on converting Sketch to my faith*
 
 *Throndir bond: Throndir is a good person and I trust them implicitly*
 
