@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Meet Sketch"
-date:   2015-09-06
+date:   2015-09-07
 categories: session-summary sketch all pov
 ---
 *Eero bond: Eero has my back when things go wrong.*
