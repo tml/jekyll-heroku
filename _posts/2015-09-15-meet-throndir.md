@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Meet Eero"
-date:   2015-09-06
+title:  "Meet Throndir"
+date:   2015-09-15
 categories: session-summary throndir all pov
 ---
 
