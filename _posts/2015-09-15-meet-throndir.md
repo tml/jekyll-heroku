@@ -5,7 +5,7 @@ date:   2015-09-15
 categories: session-summary throndir all pov
 ---
 
-*Sketch bond: Sketch does not understand life in the wild, so I will teach them. *
+*Sketch bond: Sketch does not understand life in the wild, so I will teach them.*
 
 *Eero bond: Eero has guided me before and I owe him for it.*
 
