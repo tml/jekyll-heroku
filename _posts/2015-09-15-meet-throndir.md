@@ -5,6 +5,10 @@ date:   2015-09-15
 categories: session-summary throndir all pov
 ---
 
+*Sketch bond: Sketch does not understand life in the wild, so I will teach them. *
+
+*Eero bond: Eero has guided me before and I owe him for it.*
+
 It is a truism that all elves love the wilds; making thier homes in the deep forests of the world, they commune with nature on a level most races will never understand. But even among these sylvan folk, there is occasionally one born who is so peregrine that they find themselves compelled to withdraw even from their
 arboreous kin. Of such is Throndir the ranger.
 
@@ -63,6 +67,3 @@ angered at the waste and destruction, and he searched the area carefully, findin
 Making his way to Steading Shadeguard to see what the local constabulary might know of the symbol, Throndir ran into his friend Eero, who was in the area seeking the wisdom of his former mentor, Thurban Bearclaw. As the continued on toward the Steading, just as they were considering setting up camp for the night, the
 y ran into Sketch and a member of the Shadeguard City Watch, Officer Hobbes. Throndir described the scene, and Officer Hobbes took possession of the ring and hurried back to Shadeguard to discover what others may know about it. While Sketch seemed a bit shaken and immediately got very quiet at seeing the symbol on th
 e ring, Throndir assumed his friend would share his thoughts when the time was right, and the three friends made camp for the night, determined to wait there until Officer Hobbes returned with more information.
-
-Bond: Sketch does not understand life in the wild, so I will teach them.
-Bond: Eero has guided me before and I owe him for it.
